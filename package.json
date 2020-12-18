@@ -1,0 +1,22 @@
+{
+    "name": "saber-plugin-classification",
+    "version": "1.0.0",
+    "description": "Classification plugin for Saber, Ejecting all tags and all categories in Saber.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "saber",
+      "saber-plugin",
+      "saber-plugin-classification",
+      "saber-tag",
+      "saber-category"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/siricee/saber-plugin-classification"
+      },
+    "author": "Sirice",
+    "license": "MIT"
+  }
